@@ -26,3 +26,5 @@ c fixup
 Commit on Ubuntu server.
 
 Conducted test of branch and rebase.  In dev branch, I deleted a directory created in main branch and created another new directory that main branch is not aware of.  Switching back to main branch (checkout) did not cause any problem.  The new directory was not there, and the directory dev deleted was reverted.  Merge without fast forward also worked well.  After merging dev branch to main branch, main is one commit ahead of dev.  "git rebase main dev" move dev forward, at the latest commit of main."
+
+Before merge in a.
