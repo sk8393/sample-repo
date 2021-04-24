@@ -30,3 +30,5 @@ Conducted test of branch and rebase.  In dev branch, I deleted a directory creat
 Before merge in a.
 
 Before rebase in a.
+
+Before rebase in b.
