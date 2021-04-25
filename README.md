@@ -36,3 +36,5 @@ Before rebase in b.
 initial commit for git reflog.
 
 minor fix for git reflog.
+
+minor fix again for git reflog.
