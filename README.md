@@ -32,3 +32,5 @@ Before merge in a.
 Before rebase in a.
 
 Before rebase in b.
+
+initial commit for git reflog.
