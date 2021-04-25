@@ -42,3 +42,5 @@ minor fix again for git reflog.
 initial commit for git reflog with hard reset.
 
 minor fix for git reflog with hard reset.
+
+minor fix again for git reflog with hard reset.
